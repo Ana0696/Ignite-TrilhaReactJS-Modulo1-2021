@@ -1,0 +1,12 @@
+{
+  "name": "Ignite-TrilhaReactJS-Modulo1-2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ana0696/Ignite-TrilhaReactJS-Modulo1-2021.git",
+  "author": "Ana0696 <ana.061996@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
